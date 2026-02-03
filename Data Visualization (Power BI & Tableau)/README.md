@@ -1,2 +1,1 @@
-Data Visualization (PowerBI & Tableau)
 Data visualization is defined as a graphical representation that contains information and data. By using visual elements such as charts, graphs, and maps, data visualization techniques provide an accessible way to view and understand trends, outliers, and patterns in data. Data visualization is how data analysis communicate their finding to stakeholders. Here i visualizing data using Power BI & Tableau.
