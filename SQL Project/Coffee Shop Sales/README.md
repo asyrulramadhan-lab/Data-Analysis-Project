@@ -7,6 +7,7 @@ Sales Performance Insights
 - Order Volume: The coffee shop processed a total of 51,134 orders in June, which represents a 19.1% growth in the number of orders compared to the previous month.
 - Busiest Days: By analyzing sales by date, the project identifies peak days, such as June 2nd, which saw a total revenue of $5,701.32.
 - Daily Averages: The shop maintains a steady flow of business with an average of 1,491 orders per day and daily sales reaching $23,224 on average across all locations.
+
 Location and Product Insights
 - Top Location: The Hell's Kitchen store is a top performer, contributing $236,511 to the total sales revenue.
 - Popular Product Categories: Coffee is the most popular category, with 89,250 units sold, followed by Tea with 69,049 units sold.
