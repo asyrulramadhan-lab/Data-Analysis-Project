@@ -9,5 +9,5 @@ The main goal of this project is to help the company understand its workers bett
 - Education Background: Employees with a background in Life Sciences and Medical fields show the highest number of departures.
 - High-Risk Age Group: The most frequent departures occur in the 25–34 age range, making this group the primary focus for retention efforts.
 - Departmental Impact: The Sales and Research & Development departments experience more attrition compared to other areas like Human Resources.
-- Satisfaction Mapping: The dashboard uses a Job Satisfaction Matrix (scaled 1 to 4) to show how happy employees are in their specific roles.
--Low Satisfaction Roles: Specific roles, such as Laboratory Technicians and Sales Executives, show a mix of high attrition and varying satisfaction scores, identifying them as areas that may need better management or workplace changes.
+- Satisfaction Mapping: Uses a Job Satisfaction Matrix (scaled 1 to 4) to show how happy employees are in their specific roles.
+- Low Satisfaction Roles: Specific roles, such as Laboratory Technicians and Sales Executives, show a mix of high attrition and varying satisfaction scores, identifying them as areas that may need better management or workplace changes.
